@@ -2,12 +2,15 @@
 
 I'm an active member of the FRC team 1778 Chill Out! 🐧
 
--# I'm also a past member of FTC team 417 S.K.I.D 🐨
+ ## <sub><sup>I'm also a past member of FTC team 417 S.K.I.D 🐨</sup></sub>
 
-What am I doing now? I'm programming Chill Out's offseason robot, Chillquille O'neal (funny name ha ha), based on the 2023 FRC season Charged Up!
+<ins> __What am I doing now?__ </ins> <br>
+I'm helping program Chill Out's offseason robot, Chillquille O'neal <sub><sup>(funny name ha ha)</sup></sub>, based on the 2023 FRC season Charged Up!
 
-I like experimenting what I can do with macOS 26 and Fedora 43. I also enjoy coding Arduino microcontrollers for fun personal projects. 
+That's all for now!
 
+-e
+  
 <!--
 **emosa08/emosa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
